@@ -1,4 +1,4 @@
-# Teacher
+# Phoenix CRUD App
 This is my first attempt of doing anything in Phoenix framework. Definitely it is an interesting framework with some novel designs. You should consider to try Phoenix and Elixir language at least for fun as well. Application itself is as basic as it can be, simple CRUD allowing you to create, view, edit and remove posts by any user as there is no user authentication implemented.
 
 To start your Phoenix server:
